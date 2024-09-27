@@ -14,13 +14,15 @@ public class SecondLargest {
         int[] arr3 = new int[0];
 
         System.out.println(secondLargest(arr));
-        System.out.println(secondLargest(arr1));
-        System.out.println(secondLargest(arr2));
-//        System.out.println(secondLargest(arr3));
-
         // Brute Force solution:
         System.out.println(secondLargestBruteForce(arr));
+        // Optimized Solution:
         System.out.println(secondLargestOptimized(arr));
+        
+        System.out.println(secondLargest(arr1));
+        System.out.println(secondLargest(arr2));
+
+        System.out.println(secondLargest(arr3));
     }
 
     public static int secondLargest(int[] arr) {
