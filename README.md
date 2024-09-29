@@ -15,3 +15,4 @@ this repository provides some common Java interview questions and answers to hel
 6. [Check number is prime or not in given number.](src/math/PrimeNumber.java)
 7. [Fibonacci number sequence using recursion](src/math/FibonacciSequence.java)
 8. [How do you check if a list of integers contains only odd numbers in Java?](src/list/CheckOnlyOddNumbers.java)
+9. [Is Given String a palindrome or not?](/src/string/CheckPalindromeString.java)
