@@ -14,3 +14,4 @@ this repository provides some common Java interview questions and answers to hel
 5. [is Vowel present in String.](src/string/VowelInString.java)
 6. [Check number is prime or not in given number.](src/math/PrimeNumber.java)
 7. [Fibonacci number sequence using recursion](src/math/FibonacciSequence.java)
+8. [How do you check if a list of integers contains only odd numbers in Java?](src/list/CheckOnlyOddNumbers.java)
