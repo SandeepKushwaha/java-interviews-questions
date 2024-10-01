@@ -16,3 +16,6 @@ this repository provides some common Java interview questions and answers to hel
 7. [Fibonacci number sequence using recursion](src/math/FibonacciSequence.java)
 8. [How do you check if a list of integers contains only odd numbers in Java?](src/list/CheckOnlyOddNumbers.java)
 9. [Is Given String a palindrome or not?](/src/string/CheckPalindromeString.java)
+10. [Remove white space form String](/src/string/RemoveWhiteSpace.java)
+11. [Deadlock Scenario in Java](/src/thread/Deadlock.java)
+12. [Factorial of a number in Java](/src/math/Factorial.java)
