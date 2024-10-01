@@ -19,3 +19,6 @@ this repository provides some common Java interview questions and answers to hel
 10. [Remove white space form String](/src/string/RemoveWhiteSpace.java)
 11. [Deadlock Scenario in Java](/src/thread/Deadlock.java)
 12. [Factorial of a number in Java](/src/math/Factorial.java)
+13. [Reverse a List in Java](/src/list/ReverseList.java)
+14. [Print all the prime numbers between 1 to n.](/src/math/PrintPrimeNumbers.java)
+15. [Find the nth term of the Fibonacci series.](/src/math/NthFibonacciTerm.java)
