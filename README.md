@@ -25,3 +25,6 @@ this repository provides some common Java interview questions and answers to hel
 16. [Reverse a Linked List in Java](/src/list/ReverseLinkedList.java)
 17. [Find the sum of all the elements of a given array.](/src/array/SumOfArray.java)
 18. [Binary Search in Java](/src/array/BinarySearch.java)
+19. [Patterns in Java](src/pattern/PyramidPatterns.java)
+
+[//]: # (19. [Partition in Java]&#40;/src/array/Partition.java&#41;)
