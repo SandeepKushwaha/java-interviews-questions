@@ -27,5 +27,6 @@ this repository provides some common Java interview questions and answers to hel
 18. [Binary Search in Java](/src/array/BinarySearch.java)
 19. [Pyramid Patterns in Java](src/pattern/PyramidPatterns.java)
 20. [Checks if two arrays contain the same elements.](src/array/CompareTwoArray.java)
+21. [Shuffle an array in Java](src/array/ShuffleArray.java)
 
 [//]: # (19. [Partition in Java]&#40;/src/array/Partition.java&#41;)

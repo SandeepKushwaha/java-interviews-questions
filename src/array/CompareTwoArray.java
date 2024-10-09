@@ -17,6 +17,7 @@ public class CompareTwoArray {
         int length = scanner.nextInt();
         Integer[] arr1 = new Integer[length];
 
+        System.out.println("Enter elements of array 1: ");
         for (int i = 0; i < arr1.length; i++) {
             arr1[i] = scanner.nextInt();
         }
@@ -25,6 +26,7 @@ public class CompareTwoArray {
         int length2 = scanner.nextInt();
         Integer[] arr2 = new Integer[length2];
 
+        System.out.println("Enter elements of array 1: ");
         for (int i = 0; i < arr2.length; i++) {
             arr2[i] = scanner.nextInt();
         }
