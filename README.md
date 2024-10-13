@@ -30,5 +30,6 @@ this repository provides some common Java interview questions and answers to hel
 21. [Shuffle an array in Java](src/array/ShuffleArray.java)
 22. [Find Input String in the File.](src/file/FindInputString.java)
 23. [Date Formatter in Java](src/date/DateFormatter.java)
+24. [Decode a String in Java](src/string/DecodeString.java)
 
 [//]: # (19. [Partition in Java]&#40;/src/array/Partition.java&#41;)
