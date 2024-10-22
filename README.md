@@ -35,8 +35,7 @@ this repository provides some common Java interview questions and answers to hel
 26. [Valid Parenthesis](src/string/ValidParenthesis.java)
 27. [Remove White Spaces from String](src/string/RemoveWhiteSpacesFromString.java)
 28. [Sort the elements in the given array](src/array/SortElements.java)
-
-[//]: # (29. [Sort the array in descending order]&#40;src/array/DescendingOrder.java&#41;)
+29. [Sort the array in descending order](src/array/DescendingOrder.java)
 
 
 [//]: # (25. [Find the longest common prefix in an array of strings.]&#40;src/string/LongestCommonPrefix.java&#41;)
