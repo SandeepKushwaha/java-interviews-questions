@@ -33,6 +33,7 @@ this repository provides some common Java interview questions and answers to hel
 24. [Decode a String in Java](src/string/DecodeString.java)
 25. [Reverse Words In A String](src/string/ReverseWordsInString.java)
 26. [Valid Parenthesis](src/string/ValidParenthesis.java)
+27. [Remove White Spaces from String](src/string/RemoveWhiteSpacesFromString.java)
 
 
 [//]: # (25. [Find the longest common prefix in an array of strings.]&#40;src/string/LongestCommonPrefix.java&#41;)
