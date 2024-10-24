@@ -37,6 +37,7 @@ this repository provides some common Java interview questions and answers to hel
 28. [Sort the elements in the given array](src/array/SortElements.java)
 29. [Sort the array in descending order](src/array/DescendingOrder.java)
 30. [Sort the array using Merge Sort](src/array/MergeSort.java)
+31. [Sort the String in given String](src/string/SortString.java)
 
 
 [//]: # (25. [Find the longest common prefix in an array of strings.]&#40;src/string/LongestCommonPrefix.java&#41;)
